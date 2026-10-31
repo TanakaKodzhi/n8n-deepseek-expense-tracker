@@ -50,7 +50,7 @@
 
 ---
 
-<img width="800" height="450" alt="Трекер Расходов Видео (1)" src="https://github.com/user-attachments/assets/b0220619-c16c-42c6-8086-a4cfab1b7089" />
+![Демонстрация работы](demo.gif.gif)
 
 ## 🚀 Быстрый старт и развертывание
 
